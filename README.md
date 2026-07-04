@@ -1,4 +1,5 @@
 FIFA World Cup Squads - Exploratory Data Analysis
+
 📊 Project Overview
 This project performs an Exploratory Data Analysis (EDA) on FIFA World Cup squads data using Python and Pandas. The analysis focuses on data cleaning, preprocessing, and extracting insights from player statistics across multiple World Cup tournaments (2014, 2018, 2022).
 
